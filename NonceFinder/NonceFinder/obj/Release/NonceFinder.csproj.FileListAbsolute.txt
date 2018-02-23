@@ -1,0 +1,8 @@
+c:\users\musta\documents\visual studio 2013\Projects\NonceFinder\NonceFinder\bin\Release\NonceFinder.exe.config
+c:\users\musta\documents\visual studio 2013\Projects\NonceFinder\NonceFinder\bin\Release\NonceFinder.exe
+c:\users\musta\documents\visual studio 2013\Projects\NonceFinder\NonceFinder\bin\Release\NonceFinder.pdb
+c:\users\musta\documents\visual studio 2013\Projects\NonceFinder\NonceFinder\obj\Release\NonceFinder.NonceFinder.resources
+c:\users\musta\documents\visual studio 2013\Projects\NonceFinder\NonceFinder\obj\Release\NonceFinder.Properties.Resources.resources
+c:\users\musta\documents\visual studio 2013\Projects\NonceFinder\NonceFinder\obj\Release\NonceFinder.csproj.GenerateResource.Cache
+c:\users\musta\documents\visual studio 2013\Projects\NonceFinder\NonceFinder\obj\Release\NonceFinder.exe
+c:\users\musta\documents\visual studio 2013\Projects\NonceFinder\NonceFinder\obj\Release\NonceFinder.pdb
