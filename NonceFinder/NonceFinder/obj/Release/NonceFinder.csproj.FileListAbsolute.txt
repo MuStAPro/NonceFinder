@@ -6,3 +6,12 @@ c:\users\musta\documents\visual studio 2013\Projects\NonceFinder\NonceFinder\obj
 c:\users\musta\documents\visual studio 2013\Projects\NonceFinder\NonceFinder\obj\Release\NonceFinder.csproj.GenerateResource.Cache
 c:\users\musta\documents\visual studio 2013\Projects\NonceFinder\NonceFinder\obj\Release\NonceFinder.exe
 c:\users\musta\documents\visual studio 2013\Projects\NonceFinder\NonceFinder\obj\Release\NonceFinder.pdb
+C:\Users\laith\Desktop\mustapro\NonceFinder-master\NonceFinder\NonceFinder\bin\Release\NonceFinder.exe.config
+C:\Users\laith\Desktop\mustapro\NonceFinder-master\NonceFinder\NonceFinder\bin\Release\NonceFinder.exe
+C:\Users\laith\Desktop\mustapro\NonceFinder-master\NonceFinder\NonceFinder\bin\Release\NonceFinder.pdb
+C:\Users\laith\Desktop\mustapro\NonceFinder-master\NonceFinder\NonceFinder\obj\Release\NonceFinder.csprojAssemblyReference.cache
+C:\Users\laith\Desktop\mustapro\NonceFinder-master\NonceFinder\NonceFinder\obj\Release\NonceFinder.NonceFinder.resources
+C:\Users\laith\Desktop\mustapro\NonceFinder-master\NonceFinder\NonceFinder\obj\Release\NonceFinder.Properties.Resources.resources
+C:\Users\laith\Desktop\mustapro\NonceFinder-master\NonceFinder\NonceFinder\obj\Release\NonceFinder.csproj.GenerateResource.cache
+C:\Users\laith\Desktop\mustapro\NonceFinder-master\NonceFinder\NonceFinder\obj\Release\NonceFinder.exe
+C:\Users\laith\Desktop\mustapro\NonceFinder-master\NonceFinder\NonceFinder\obj\Release\NonceFinder.pdb
